@@ -1,0 +1,11 @@
+Tensorflow version - 2.x
+
+pip install tensorflow  
+pip install matplotlib
+pip install -U scikit-learn
+pip install unicodedata
+pip install re
+pip install numpy
+pip install os
+pip install io
+pip install time
